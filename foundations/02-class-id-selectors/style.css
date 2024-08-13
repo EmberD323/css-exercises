@@ -7,15 +7,15 @@
     font-family: 'Verdana','DejaVu Sans' sans-serif;
 }
 
-.second {
-    color: rgb(35, 17, 201);
+#second {
+    color: rgb(25, 0, 255);
     font-size: 36px;
 }
 .medium {
     font-size: 24px;
 } 
 
-.fourth {
-    background-color: rgb(red, rgb(184, 226, 184), blue);
+#fourth {
+    background-color: rgb(184, 226, 184);
     font-weight: bold;
 }
