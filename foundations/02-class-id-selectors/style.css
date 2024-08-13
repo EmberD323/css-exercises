@@ -4,7 +4,7 @@
 * **The fourth element**: a light green background, a font size of 24px, and bol */
 .odd {
     background-color:rgb(236, 160, 179);
-    font-family: 'Verdana','DejaVu Sans' sans-serif;
+    font-family: Verdana,"DejaVu Sans", sans-serif; /* updated after solution*/
 }
 
 #second {
