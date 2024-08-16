@@ -27,6 +27,7 @@ img {
   align-items: center;
   text-align: center;
   width: 200px;
+  /*or none of this and just max-width: 200px; in solution but i like my way*/ 
 }
 
 /* do not edit this footer */
